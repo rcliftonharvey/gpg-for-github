@@ -549,7 +549,12 @@ If you also wish to sign new tags, run this command as well:
 To let Git know which GPG key it should use to sign your commits, remember the GPG key ID you exported earlier into ```gpg_key_id.txt```. Insert it into the following command and run it:
 ```git config [--global] user.signingkey [YOUR_GPG_KEY_ID]```
 
-And that's it. Easy, right? :)
+And that's it.
+
+From now on, any Git client that uses the system-wide Git version should automatically sign your commits.
+All you need to do now is start committing.
+
+Easy, right? :)
 
 <br>
 
