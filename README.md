@@ -568,7 +568,7 @@ Easy, right? :)
 
 Although it was a tough and long read, because I tend to blather on at times, I hope this instructional not only helped you to get your development machine to send signed commits to GitHub, but that it also helped you understand what you were (and will be) doing.
 
-If you have any comments or suggestions, please report and discuss them in the [Issues section](/rcliftonharvey/gpg-for-github/issues) of this repository.
+If you have any comments or suggestions, please report and discuss them in the [Issues section](https://github.com/rcliftonharvey/gpg-for-github/issues) of this repository.
 
 <br>
 
