@@ -4,7 +4,7 @@ This document will discuss how to set up a Windows or macOS based toolchain that
 
 GitHub themselves provide a very elaborate and intricate [explanation in their Docs](https://docs.github.com/en/authentication/managing-commit-signature-verification) about how this works and how to set it all up, but while their descriptions are very precise and detailed, they still only provide a "how-to" but don't seem to concern themselves with "why" or "what".
 
-While the official Git SCM website offers a concise [description of the process](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work), it restricts itself to doing everything on the command line, and it doesn't consider (visual) client-based work, also not interaction with an online-hosted repository system like GitHub.
+The official Git SCM website offers a concise [description of the process](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work), but it restricts itself to doing everything on the command line, and it doesn't consider (visual) client-based work, also not interaction with an online-hosted repository system like GitHub.
 
 I aim to make the topic understandable (to some extent) and less cryptic for people with little terminal and command line experience. (Though some keyboard interaction will be required.) After following these instructions, you should have a work environment that can sign your Git commits to GitHub repositories, and you should roughly understand what's going on in the background.
 
